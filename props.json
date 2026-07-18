@@ -1,0 +1,400 @@
+{
+  "sakura_school_simulator_props_99": [
+    {
+      "title": "Kereta Api (Train)",
+      "props_id": "9416148608135"
+    },
+    {
+      "title": "Kapal Selam (Submarine)",
+      "props_id": "3616148573537"
+    },
+    {
+      "title": "Truck Biru (Blue Truck)",
+      "props_id": "30161581879213"
+    },
+    {
+      "title": "Ferrari F1",
+      "props_id": "22163870754121"
+    },
+    {
+      "title": "Odong-Odong Doraemon",
+      "props_id": "51162040599822"
+    },
+    {
+      "title": "Bis Tingkat Dua (Double Decker Bus)",
+      "props_id": "35161581856011"
+    },
+    {
+      "title": "Bis Kota (City Bus)",
+      "props_id": "5416194402378"
+    },
+    {
+      "title": "Bis Ayo Pakai Masker",
+      "props_id": "15162076737414"
+    },
+    {
+      "title": "Hammer H1",
+      "props_id": "28163574822211"
+    },
+    {
+      "title": "Mobil Mitsubishi",
+      "props_id": "72163302428821"
+    },
+    {
+      "title": "Mobil Toyota",
+      "props_id": "43163101448424"
+    },
+    {
+      "title": "Mobil Lamborghini Gallardo",
+      "props_id": "41563912600527"
+    },
+    {
+      "title": "Mobil Jeep CJ",
+      "props_id": "20163669380325"
+    },
+    {
+      "title": "Mobil Jeep Police",
+      "props_id": "22163840530354"
+    },
+    {
+      "title": "Mobil Nissan Silvia",
+      "props_id": "79163853226616"
+    },
+    {
+      "title": "Mobil Raksasa (Giant Car)",
+      "props_id": "30161581879213"
+    },
+    {
+      "title": "Mobil Nissan Skyline",
+      "props_id": "21163939147334"
+    },
+    {
+      "title": "Mobil Safari Jeep",
+      "props_id": "45163755857120"
+    },
+    {
+      "title": "Mobil Toyota Hiace",
+      "props_id": "29163939151827"
+    },
+    {
+      "title": "Pesawat Garuda Indonesia",
+      "props_id": "95161492318215"
+    },
+    {
+      "title": "Pesawat Sakura AirLines",
+      "props_id": "37161633143615"
+    },
+    {
+      "title": "Pesawat Lion Air",
+      "props_id": "63161569274916"
+    },
+    {
+      "title": "Pesawat Sriwijaya Air",
+      "props_id": "31161569250513"
+    },
+    {
+      "title": "Bandara Mas Akbar (Airport)",
+      "props_id": "63161622626414"
+    },
+    {
+      "title": "Toko Boneka",
+      "props_id": "34162545643923"
+    },
+    {
+      "title": "Toko Boneka dan Souvenir",
+      "props_id": "34162545643923"
+    },
+    {
+      "title": "Toko Boneka Boba",
+      "props_id": "74164403651916"
+    },
+    {
+      "title": "Rumah Mewah Dekat Vila",
+      "props_id": "50161591735223"
+    },
+    {
+      "title": "Rumah Mewah Depan Park",
+      "props_id": "78161591728622"
+    },
+    {
+      "title": "Rumah Mewah Dekat Repair",
+      "props_id": "81161591709931"
+    },
+    {
+      "title": "Rumah Mewah 4",
+      "props_id": "93161591717923"
+    },
+    {
+      "title": "Rumah Mewah 5",
+      "props_id": "67161596710223"
+    },
+    {
+      "title": "Rumah Mewah 6",
+      "props_id": "99161785700020"
+    },
+    {
+      "title": "Rumah Aesthetic 1",
+      "props_id": "64162700990223"
+    },
+    {
+      "title": "Rumah Aesthetic 2",
+      "props_id": "51163986899649"
+    },
+    {
+      "title": "Rumah Aesthetic 3",
+      "props_id": "69163332380527"
+    },
+    {
+      "title": "Rumah Aesthetic 4",
+      "props_id": "43162804737836"
+    },
+    {
+      "title": "Rumah Aesthetic 5",
+      "props_id": "75164121237440"
+    },
+    {
+      "title": "Rumah Kecil Ungu Aesthetic",
+      "props_id": "66161599257521"
+    },
+    {
+      "title": "Rumah Toko Bunga Aesthetic",
+      "props_id": "34161605419910"
+    },
+    {
+      "title": "Rumah Kaca Aesthetic 1",
+      "props_id": "81161617609820"
+    },
+    {
+      "title": "Rumah Doraemon Aesthetic Warna Pink",
+      "props_id": "31161779702929"
+    },
+    {
+      "title": "Rumah Aesthetic Lantai 2",
+      "props_id": "79161615756621"
+    },
+    {
+      "title": "Rumah Aesthetic Minimalis",
+      "props_id": "85161571118367"
+    },
+    {
+      "title": "Rumah Kaca Aesthetic 2",
+      "props_id": "75161521239626"
+    },
+    {
+      "title": "Masjid",
+      "props_id": "4316162123986"
+    },
+    {
+      "title": "Masjid Tempe Gaming",
+      "props_id": "50161529264313"
+    },
+    {
+      "title": "Masjid As-Sholihin",
+      "props_id": "38161734755620"
+    },
+    {
+      "title": "Masjid Relax Mole",
+      "props_id": "9116151739356"
+    },
+    {
+      "title": "Masjid Baitul Ikhlas",
+      "props_id": "44161675203753"
+    },
+    {
+      "title": "Masjid Alun-Alun Cianjur",
+      "props_id": "33161687116617"
+    },
+    {
+      "title": "Waterpark",
+      "props_id": "48161718836410"
+    },
+    {
+      "title": "Waterpark Khansa Ardelia",
+      "props_id": "97161590675110"
+    },
+    {
+      "title": "Waterpark Tia Animasi",
+      "props_id": "4816181132819"
+    },
+    {
+      "title": "Waterboom Nafisa Fidela",
+      "props_id": "23161586694724"
+    },
+    {
+      "title": "Waterpark CittCatt",
+      "props_id": "81161605990326"
+    },
+    {
+      "title": "Istana Frozen (Frozen Castle)",
+      "props_id": "95161559580720"
+    },
+    {
+      "title": "Istana Cinderella",
+      "props_id": "45161869972251"
+    },
+    {
+      "title": "Istana Barbie",
+      "props_id": "19161751373913"
+    },
+    {
+      "title": "Poneris Cute",
+      "props_id": "48161543373122"
+    },
+    {
+      "title": "Kerajaan Peri",
+      "props_id": "86161865626313"
+    },
+    {
+      "title": "Istana Pink",
+      "props_id": "25161917001622"
+    },
+    {
+      "title": "Istana Salju",
+      "props_id": "96163559372110"
+    },
+    {
+      "title": "Istana Pop It",
+      "props_id": "72162506090012"
+    },
+    {
+      "title": "Istana Kuning",
+      "props_id": "47161802575012"
+    },
+    {
+      "title": "Istana Mermaid",
+      "props_id": "76161536638411"
+    },
+    {
+      "title": "Istana Pasir",
+      "props_id": "77162037661312"
+    },
+    {
+      "title": "Istana Candy",
+      "props_id": "93163118127436"
+    },
+    {
+      "title": "Villa Bali",
+      "props_id": "95161881674410"
+    },
+    {
+      "title": "Villa BTS",
+      "props_id": "43161856472316"
+    },
+    {
+      "title": "Dekorasi Villa Aesthetic",
+      "props_id": "7516171572025"
+    },
+    {
+      "title": "Villa Mewah",
+      "props_id": "35161621089511"
+    },
+    {
+      "title": "Dekorasi Villa",
+      "props_id": "78161846031014"
+    },
+    {
+      "title": "Tempat Parkour Bentuk Pop It",
+      "props_id": "6516174175296"
+    },
+    {
+      "title": "Tempat Parkour Lilac Putih",
+      "props_id": "23163495515136"
+    },
+    {
+      "title": "Tempat Parkour Blackpink",
+      "props_id": "72162409780518"
+    },
+    {
+      "title": "Tempat Parkour Mobil",
+      "props_id": "85162043914821"
+    },
+    {
+      "title": "Tempat Parkour Squid Game",
+      "props_id": "417663500763627"
+    },
+    {
+      "title": "Tempat Parkour Rainbow",
+      "props_id": "56162554919823"
+    },
+    {
+      "title": "Tempat Parkour By Rizna Putri",
+      "props_id": "621616221155019"
+    },
+    {
+      "title": "Tempat Parkour Lucu",
+      "props_id": "51161664601812"
+    },
+    {
+      "title": "Tempat Parkour By Putri Azzahra",
+      "props_id": "82161578291539"
+    },
+    {
+      "title": "Tempat Parkour By Kafa Saja 2",
+      "props_id": "37161685185914"
+    },
+    {
+      "title": "Tempat Parkour Minimalis",
+      "props_id": "81161571781812"
+    },
+    {
+      "title": "Tempat Parkour Rumah Dan Taman",
+      "props_id": "13161685212314"
+    },
+    {
+      "title": "Tempat Parkour Pelangi",
+      "props_id": "67161621183835"
+    },
+    {
+      "title": "Arena Squid Game By Faras Rayyan",
+      "props_id": "87163270066210"
+    },
+    {
+      "title": "Rumah Hantu Seram",
+      "props_id": "78161763717515"
+    },
+    {
+      "title": "Rumah Hantu Desa Quarry",
+      "props_id": "42161665044721"
+    },
+    {
+      "title": "Rumah Hantu Golden Cat",
+      "props_id": "35161681698622"
+    },
+    {
+      "title": "Kastil Rumah Hantu",
+      "props_id": "90161655622818"
+    },
+    {
+      "title": "Apartement Shinbi",
+      "props_id": "27161559652716"
+    },
+    {
+      "title": "Cozy Cafe",
+      "props_id": "41164212816017"
+    },
+    {
+      "title": "D'ytas Cafe",
+      "props_id": "91164371368711"
+    },
+    {
+      "title": "Holiday Cafe",
+      "props_id": "52164114304814"
+    },
+    {
+      "title": "L'amoure Cafe",
+      "props_id": "26163914676514"
+    },
+    {
+      "title": "CittCattMarket",
+      "props_id": "30164259124615"
+    },
+    {
+      "title": "Cafe Deket Pantai",
+      "props_id": "18164161695930"
+    },
+    {
+      "title": "Warung Boba",
+      "props_id": "78162742666340"
+    }
+  ]
+}
